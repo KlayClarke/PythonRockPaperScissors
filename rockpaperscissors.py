@@ -26,7 +26,7 @@ random_number = random.randint(0,2)
 computer_selection = choices[random_number]
 
 
-user_selection = int(input('What do you choose? Type 0 for Rock, 1 for Paper, 2 for Scissors'))
+user_selection = int(input('What do you choose? Type 0 for Rock, 1 for Paper, 2 for Scissors\n'))
 if user_selection == 0:
     print("You have selected: \n")
     print(choices[0])
