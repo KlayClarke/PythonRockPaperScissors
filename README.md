@@ -1,3 +1,3 @@
 # rockpaperscissors.py
 
-Rock Paper Scissors: Command-line app made with love (and Python)
+Rock Paper Scissors Command-line app made with love (and Python)
